@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+## LINK
+
+[dev to link](https://dev.to/priyanshudas01/building-a-language-translator-with-copilotkit-for-ai-powered-translation-3beo)
+[live link](https://language-copilot.vercel.app/)
 ## Getting Started
 
 First, run the development server:
